@@ -1,0 +1,4 @@
+name: uIRCBridge
+main : leetclan.plugins.uIRCBridge.UIRCBridge
+version: 0.2
+depend: [Herochat, CraftIRC]
