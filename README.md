@@ -1,4 +1,5 @@
-Chat
-====
+Original Work By andersonhc
 
-Chat system for 1337
+LICENSE
+GNU GENERAL PUBLIC LICENSE
+http://dev.bukkit.org/licenses/7-gnu-general-public-license-version-3-gplv3/
